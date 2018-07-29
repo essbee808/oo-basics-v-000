@@ -40,3 +40,9 @@ class Book
   end
 end
 
+# Refactor the above code using attribute accessors and attribute readers!
+
+class Book
+
+end
+
