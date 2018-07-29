@@ -8,8 +8,12 @@ class Book
     @title
   end
   
-  def author=(author) #=> setter/writer method; its job is to take the value and write it into the variable
+  # setter/writer method; its job is to take the value and write it into the variable
+  def author=(author)
     @author = author
   end
+  
+  # getter/reader method; its job is to ask 
+  
 end
 
