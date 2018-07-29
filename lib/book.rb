@@ -36,7 +36,7 @@ class Book
   
   # use both data and behavior within this class!
   def turn_page
-    puts 
+    puts "Flipping the page...wow, you read fast!"
   end
 end
 
