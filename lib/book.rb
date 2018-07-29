@@ -14,6 +14,8 @@ class Book
   end
   
   # getter/reader method; its job is to ask 
-  
+  def author
+    @author
+  end
 end
 
