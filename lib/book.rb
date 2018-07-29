@@ -8,7 +8,7 @@ class Book
     @title
   end
   
-  def author=(author) #=> setter method
+  def author=(author) #=> setter/writer method
     @author = author
   end
 end
