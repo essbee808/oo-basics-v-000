@@ -34,7 +34,8 @@ class Book
     @genre
   end
   
+  # use both data and behavior within this class!
   def turn_page
-end
+  end
 end
 
