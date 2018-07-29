@@ -18,6 +18,7 @@ class Book
     @author
   end
   
-  
+  def page_count
+end
 end
 
